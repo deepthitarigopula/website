@@ -1,0 +1,40 @@
+.con{
+    width:100%;
+    height:5ovh;
+    position:relative;
+    overflow: hidden;
+            }
+    
+    .subcon{
+    width:50%;
+    height:50%;
+    align-items:center;
+    position:absolute;
+    top:30%;
+    left:40%;
+    color:black;
+    }
+    .con1{
+             max-width:500px;
+             margin:auto;
+             }
+    
+    input[type="text"], input[type="email"], input[type="tel"], textarea { 
+        width: 230px; 
+        padding: 10px; 
+        margin-bottom: 20px; 
+    }
+    
+    textarea { 
+        width: 460px; 
+        height: 100px;
+     }
+    
+    button {
+         width: 460px; 
+         padding: 15px;
+        background-color: orange;
+    color:white; 
+        }
+    
+    
